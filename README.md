@@ -93,5 +93,3 @@ Para esta hackathon, cada equipo estará compuesto por cuatro (4) miembros. Ser�
 
 ¡Buena suerte a todos! ⚡ Que esta hackathon sea una oportunidad para fortalecer su dominio de Git y GitHub.
 
-
-def función división();
