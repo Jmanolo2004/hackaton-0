@@ -92,3 +92,6 @@ Para esta hackathon, cada equipo estará compuesto por cuatro (4) miembros. Ser�
 - **Fecha Límite**: La hackathon deberá completarse antes del 31 de agosto a las 5:20 de la tarde, momento en el cual los repositorios serán revisados.
 
 ¡Buena suerte a todos! ⚡ Que esta hackathon sea una oportunidad para fortalecer su dominio de Git y GitHub.
+
+
+def función división();
